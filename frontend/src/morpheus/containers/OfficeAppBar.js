@@ -32,7 +32,7 @@ const OfficeAppBar = ({
   currentUser
 }) => (
   <>
-    <AppBarTitle>Matrix</AppBarTitle>
+    <AppBarTitle>Salas BLU</AppBarTitle>
     <MenuOffice
       filter={officeFilter}
       onChangeFilter={onChangeOfficeFilter}
